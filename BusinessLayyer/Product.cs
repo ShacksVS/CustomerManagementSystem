@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace BusinessLayer
 {
-    class Product
+    public class Product
     {
         public static int InstanceCount { get; set; }
 

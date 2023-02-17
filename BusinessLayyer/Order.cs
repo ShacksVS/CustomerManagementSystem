@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace BusinessLayer
 {
-    class Order
+    public class Order
     {
         public static int InstanceCount { get; set; }
 
